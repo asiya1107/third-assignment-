@@ -1,1 +1,1 @@
-# third-assignment-
+I spent a few days rewatching the recordings trying to understand what it is I am supposed to do. I do not think I have completed this assignment successfully. I feel most comfortable with CSS so I added a bunch of that I have realised I prefer making things look nice rather than the JS stuff JS stresses me out a bit.
